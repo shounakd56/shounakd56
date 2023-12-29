@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Shounak!
 I'm a third year Electrical Engineering undergraduate at the Indian Institute of Technology Bombay. 
 
 <!--
