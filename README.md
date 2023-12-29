@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Shounak!
 I'm a third year Electrical Engineering undergraduate at the Indian Institute of Technology Bombay. 
-
+- Interest Areas: Machine Learning, Natural Language Processing, Computer Vision,
+Generative AI, Data Science, Quantitative Research
 <!--
 **shounakd56/shounakd56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
