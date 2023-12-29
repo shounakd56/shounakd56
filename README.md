@@ -4,6 +4,8 @@ I'm a third year Electrical Engineering undergraduate at the Indian Institute of
 
 - Interest Areas- Machine Learning, Natural Language Processing, Computer Vision,
 Generative AI, Data Science, Quantitative Research
+- Languages- C++, Python, C, MATLAB, HTML, CSS, JavaScript, VHDL, Assembly, Arduino, CUDA
+- Python Libraries- NumPy, Matplotlib, Panda, SciPy, PyTorch, TensorFlow, Transformers, NLTK
 <!--
 **shounakd56/shounakd56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
