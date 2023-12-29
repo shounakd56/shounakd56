@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Shounak!
 I'm a third year Electrical Engineering undergraduate at the Indian Institute of Technology Bombay. 
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 - Interest Areas- Machine Learning, Natural Language Processing, Computer Vision,
 Generative AI, Data Science, Quantitative Research
 <!--
