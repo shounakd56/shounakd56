@@ -5,7 +5,7 @@ I'm a third year Electrical Engineering undergraduate at the Indian Institute of
 - My paper <a href="https://drive.google.com/file/d/1OWps3k4ht_QOqyDZvvjmmwF7NV0r1pVO/view?usp=sharing"> <b>"IDAL: Improved Domain Adaptive Learning for Natural Images Dataset"</b></a>: Submitted in the prestigious IEEE Conference - Winter Conference on Applications of Computer Vision
 (WACV) 2024, to be conducted at Waikoloa, Hawaii.
 - Interest Areas- Machine Learning, Natural Language Processing, Computer Vision,
-Generative AI, Data Science, Quantitative Research
+Generative AI, Data Science
 - Languages- C++, Python, C, MATLAB, HTML, CSS, JavaScript, VHDL, Assembly, Arduino, CUDA
 - Python Libraries- NumPy, Matplotlib, Panda, SciPy, PyTorch, TensorFlow, Transformers, NLTK
 <!--
