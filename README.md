@@ -20,9 +20,9 @@ I love exploring how technology can make a real-world impact.
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/shounakdas1/))  
+- [LinkedIn]((https://www.linkedin.com/in/shounakdas1/))  
 - [Email](mailto:shounakd56@gmail.com)  
-- [Portfolio]([https://your-portfolio-link.com](https://shounakd56.github.io/))  
+- [Portfolio]((https://shounakd56.github.io/))  
 
 
 
