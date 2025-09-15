@@ -5,13 +5,11 @@ I love exploring how technology can make a real-world impact.
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
----
 
 ## 💡 Interests
 
 **Machine Learning | NLP | Generative AI | LLMs | Vision-Language Models | Computer Vision | Data Science**  
 
----
 
 ## 💻 Skills
 
@@ -19,13 +17,12 @@ I love exploring how technology can make a real-world impact.
 **Tools & Software:** Git, AWS, Docker, Tableau, MySQL, PostgreSQL, Intel Quartus, Xilinx Vivado, GNU Radio, SOLIDWORKS  
 **Python Libraries:** NumPy, Matplotlib, Pandas, SciPy, PyTorch, TensorFlow, PySpark, OpenSlide, Transformers, Gensim, spaCy, Diffusers, LangChain, ChromaDB, Weaviate, NLTK, Streamlit  
 
----
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/)  
-- [Email](mailto:your.email@example.com)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/shounakdas1/))  
+- [Email](mailto:shounakd56@gmail.com)  
+- [Portfolio]([https://your-portfolio-link.com](https://shounakd56.github.io/))  
 
 
 
