@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shounak Das!
 
-I'm a **Final-Year Dual Degree (B.Tech + M.Tech) student in Electrical Engineering** at **IIT Bombay**, with a minor in **AI, Machine Learning & Data Science**.  
+I'm a **Final-Year Dual Degree (B.Tech + M.Tech) student in Electrical Engineering**  
+at **IIT Bombay**, with a minor in **AI, Machine Learning & Data Science**.  
 I love exploring how technology can make a real-world impact.  
 
 <img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
