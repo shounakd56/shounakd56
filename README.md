@@ -1,3 +1,36 @@
+# 👋 Hi, I'm Shounak Das!
+
+I'm a **Final-Year Dual Degree (B.Tech + M.Tech) student in Electrical Engineering** at **IIT Bombay**, with a minor in **AI, Machine Learning & Data Science**.  
+I love exploring how technology can make a real-world impact.  
+
+<img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+---
+
+## 💡 Interests
+
+**Machine Learning | NLP | Generative AI | LLMs | Vision-Language Models | Computer Vision | Data Science**  
+
+---
+
+## 💻 Skills
+
+**Languages:** C++, Python, C, MATLAB, HTML, CSS, JavaScript, VHDL, Assembly, Arduino, CUDA  
+**Tools & Software:** Git, AWS, Docker, Tableau, MySQL, PostgreSQL, Intel Quartus, Xilinx Vivado, GNU Radio, SOLIDWORKS  
+**Python Libraries:** NumPy, Matplotlib, Pandas, SciPy, PyTorch, TensorFlow, PySpark, OpenSlide, Transformers, Gensim, spaCy, Diffusers, LangChain, ChromaDB, Weaviate, NLTK, Streamlit  
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/)  
+- [Email](mailto:your.email@example.com)  
+- [Portfolio](https://your-portfolio-link.com)  
+
+
+
+
+<!--
 ### 👋 Hi, I'm Shounak!
 I'm a third year Electrical Engineering undergraduate at the Indian Institute of Technology Bombay. 
  <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
@@ -8,6 +41,7 @@ I'm a third year Electrical Engineering undergraduate at the Indian Institute of
 Generative AI, Data Science
 - Languages- C++, Python, C, MATLAB, HTML, CSS, JavaScript, VHDL, Assembly, Arduino, CUDA
 - Python Libraries- NumPy, Matplotlib, Panda, SciPy, PyTorch, TensorFlow, Transformers, NLTK
+-->
 <!--
 **shounakd56/shounakd56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
