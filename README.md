@@ -20,10 +20,7 @@ I love exploring how technology can make a real-world impact.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VHDL](https://img.shields.io/badge/VHDL-FF0000?style=for-the-badge&logo=VHDL&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C1D?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 
 ### 🛠️ Tools & Software
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,10 +29,7 @@ I love exploring how technology can make a real-world impact.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Intel Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge)
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-EE1C25?style=for-the-badge)
-![GNU Radio](https://img.shields.io/badge/GNU_Radio-2C3539?style=for-the-badge)
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=for-the-badge)
+
 
 ### 📦 Python Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,7 +48,6 @@ I love exploring how technology can make a real-world impact.
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF9900?style=for-the-badge)
 ![Weaviate](https://img.shields.io/badge/Weaviate-3C4C5B?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-990000?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 
 ---
 
@@ -64,7 +57,7 @@ I love exploring how technology can make a real-world impact.
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounakdas1/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounakdas1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shounakd56@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=github&logoColor=white)](https://shounakd56.github.io/)  
 
