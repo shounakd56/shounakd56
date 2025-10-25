@@ -58,12 +58,15 @@ I love exploring how technology can make a real-world impact.
 
 ---
 
+## 📊 GitHub Language Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shounakd56&theme=tokyonight&layout=compact)
+
+---
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounakdas1/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shounakd56@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=github&logoColor=white)](https://shounakd56.github.io/)  
-
-
 
 
 <!--
