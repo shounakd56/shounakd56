@@ -3,22 +3,65 @@
 I'm a **Final-Year Dual Degree (B.Tech + M.Tech) student in Electrical Engineering** at **IIT Bombay**, with a minor in **AI, Machine Learning & Data Science**.  
 I love exploring how technology can make a real-world impact.  
 
+---
 
 ## 💡 Interests
-
 **Machine Learning | NLP | Generative AI | LLMs | Vision-Language Models | Computer Vision | Data Science**  
+
+---
 
 ## 💻 Skills
 
-**Languages:** C++, Python, C, MATLAB, HTML, CSS, JavaScript, VHDL, Assembly, Arduino, CUDA  
-**Tools & Software:** Git, AWS, Docker, Tableau, MySQL, PostgreSQL, Intel Quartus, Xilinx Vivado, GNU Radio, SOLIDWORKS  
-**Python Libraries:** NumPy, Matplotlib, Pandas, SciPy, PyTorch, TensorFlow, PySpark, OpenSlide, Transformers, Gensim, spaCy, Diffusers, LangChain, ChromaDB, Weaviate, NLTK, Streamlit  
+### 🖥️ Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-F1672F?style=for-the-badge&logo=matlab&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-FF0000?style=for-the-badge&logo=VHDL&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C1D?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🛠️ Tools & Software
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Intel Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-EE1C25?style=for-the-badge)
+![GNU Radio](https://img.shields.io/badge/GNU_Radio-2C3539?style=for-the-badge)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=for-the-badge)
+
+### 📦 Python Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?style=for-the-badge)
+![OpenSlide](https://img.shields.io/badge/OpenSlide-000000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-00A1D9?style=for-the-badge)
+![Gensim](https://img.shields.io/badge/Gensim-2C3E50?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-FF0000?style=for-the-badge)
+![Diffusers](https://img.shields.io/badge/Diffusers-00FFCC?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-5C2D91?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF9900?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-3C4C5B?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-990000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+
+---
 
 ## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/shounakdas1/)  
-- [Email](mailto:shounakd56@gmail.com)  
-- [Portfolio](https://shounakd56.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounakdas1/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shounakd56@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=github&logoColor=white)](https://shounakd56.github.io/)  
 
 
 
