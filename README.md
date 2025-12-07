@@ -52,7 +52,7 @@ I love exploring how technology can make a real-world impact.
 ---
 
 ## 📊 GitHub Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shounakd56)](https://github.com/shounakd56/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shounakd56)](https://github.com/shounakd56/shounakd56)
 
 ---
 
