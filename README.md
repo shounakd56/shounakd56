@@ -48,12 +48,10 @@ I love exploring how technology can make a real-world impact.
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF9900?style=for-the-badge)
 ![Weaviate](https://img.shields.io/badge/Weaviate-3C4C5B?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-990000?style=for-the-badge)
-<!--
 ---
 
 ## 📊 GitHub Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shounakd56&theme=tokyonight&layout=compact&cache_seconds=86400)
--->
 ---
 
 ## 📫 Let's Connect
